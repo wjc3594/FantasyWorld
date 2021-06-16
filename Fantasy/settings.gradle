@@ -1,0 +1,4 @@
+include ':KotlinPractice'
+include ':app:BaseUtil'
+include ':app'
+rootProject.name = "Fantasy"
